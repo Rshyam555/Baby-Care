@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846670126962",
+    "firebase_url": "https://babycareweb2-default-rtdb.firebaseio.com",
+    "project_id": "babycareweb2",
+    "storage_bucket": "babycareweb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846670126962:android:25718cb4c56bc7421e47eb",
+        "android_client_info": {
+          "package_name": "Advanced.BabyCare.Web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846670126962-0mie2tmfordhulnesvsktldf6lhjpa0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd92lXptA9Iqqj2xA7990iJjcUS6ZAbRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846670126962-0mie2tmfordhulnesvsktldf6lhjpa0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
