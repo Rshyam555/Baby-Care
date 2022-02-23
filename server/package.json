@@ -7,8 +7,7 @@
   "author": "Jeliozver",
   "license": "MIT",
   "scripts": {
-    "start" : "node server.js",
-    "heroku-postbuild": "ng build — prod"
+    "start": "node app.js"
   },
   "dependencies": {
     "body-parser": "1.18.3",
@@ -28,6 +27,5 @@
     "@types/mongodb": "^3.0.18",
     "@types/mongoose": "^5.0.15",
     "eslint": "^4.19.1"
-  },
-  "engines": { "node": "v16.13.1", "npm": "8.1.2" }
+  }
 }
